@@ -1,0 +1,40 @@
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\bin\Debug\net5.0\appsettings.json
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\bin\Debug\net5.0\ASPNET CoreWebApp.exe
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\bin\Debug\net5.0\ASPNET CoreWebApp.deps.json
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\bin\Debug\net5.0\ASPNET CoreWebApp.runtimeconfig.json
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\bin\Debug\net5.0\ASPNET CoreWebApp.runtimeconfig.dev.json
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\bin\Debug\net5.0\ASPNET CoreWebApp.dll
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\bin\Debug\net5.0\ref\ASPNET CoreWebApp.dll
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\bin\Debug\net5.0\ASPNET CoreWebApp.pdb
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\bin\Debug\net5.0\ASPNET CoreWebApp.Views.dll
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\bin\Debug\net5.0\ASPNET CoreWebApp.Views.pdb
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.csprojAssemblyReference.cache
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.AssemblyInfoInputs.cache
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.AssemblyInfo.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.csproj.CoreCompileInputs.cache
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.RazorAssemblyInfo.cache
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.RazorAssemblyInfo.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\staticwebassets\ASPNET CoreWebApp.StaticWebAssets.Manifest.cache
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\staticwebassets\ASPNET CoreWebApp.StaticWebAssets.xml
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\scopedcss\bundle\ASPNET CoreWebApp.styles.css
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.TagHelpers.input.cache
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.TagHelpers.output.cache
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.RazorCoreGenerate.cache
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.Views.pdb
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.dll
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ref\ASPNET CoreWebApp.dll
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.pdb
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.genruntimeconfig.cache
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\ASPNET CoreWebApp\obj\Debug\net5.0\ASPNET CoreWebApp.csproj.CopyComplete
