@@ -12,7 +12,11 @@ namespace MVC_Sample_1
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source = (localdb)\MSSQLLocalDB;Initial Catalog = Vehicle; Integrated Security = True; Connect Timeout = 30; Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+            DbContextOptionsBuilder dbContextOptionsBuilder = optionsBuilder.UseSqlServer(
+            @"Data Source = S5D011\SQLEXPRESS; Initial Catalog = AssetsCatalogWA;" +
+            " Integrated Security = True; Connect Timeout = 30; Encrypt = False;" +
+            " TrustServerCertificate = False; ApplicationIntent = ReadWrite; MultiSubnetFailover = False"
+        );
         }
     }
 }
