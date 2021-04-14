@@ -51,7 +51,8 @@ namespace MVC_Sample_1
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Cars}/{action=Index}/{id?}");
+                    //Change wich is landing Home page.
             });
         }
     }
