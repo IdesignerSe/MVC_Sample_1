@@ -144,3 +144,8 @@ C:\Users\elev\Documents\GitHub\MVC_Sample_1\MVC_Sample_1\bin\Debug\net5.0\zh-Han
 C:\Users\elev\Documents\GitHub\MVC_Sample_1\MVC_Sample_1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\elev\Documents\GitHub\MVC_Sample_1\MVC_Sample_1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\elev\Documents\GitHub\MVC_Sample_1\MVC_Sample_1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\MVC_Sample_1\obj\Debug\net5.0\Razor\Views\Cars\Create.cshtml.g.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\MVC_Sample_1\obj\Debug\net5.0\Razor\Views\Cars\Delete.cshtml.g.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\MVC_Sample_1\obj\Debug\net5.0\Razor\Views\Cars\Details.cshtml.g.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\MVC_Sample_1\obj\Debug\net5.0\Razor\Views\Cars\Edit.cshtml.g.cs
+C:\Users\elev\Documents\GitHub\MVC_Sample_1\MVC_Sample_1\obj\Debug\net5.0\Razor\Views\Cars\Index.cshtml.g.cs
